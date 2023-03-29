@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+    body{
+        font-family: "Roboto", sans-serif;
+    }
+
+    header
+     {background-color: blue !important;
+        height:400px;
+
+}
+    nav{background-color: blue !important;
+        text-align: right;
+    
+}
+
+    section{
+        width: auto;
+        height: 5px;
+        ruby-align: center;
+    }
+    
+    h1{
+        font-size: 05pc;
+        color: #ffffff;
+        
+    }
+    h2
+    {
+        font-size: 05pc;
+    }
+    h3
+    {
+        font-size: 03pc;
+    }
+    footer
+    
+        {background-color: blue !important;
+            height:400px;
+    }
+
